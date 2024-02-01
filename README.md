@@ -1,4 +1,4 @@
-🔭 I’m working on Data Science and ML /br
+🔭 I’m working on Data Science and ML<br/>
 🌱 I’m learning Python and R
 
 ## 🌐 Socials:

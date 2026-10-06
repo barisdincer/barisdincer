@@ -8,19 +8,6 @@ Outside of database work, I enjoy building practical software — especially **m
 
 Some of my public work includes [CircleKeep](https://github.com/barisdincer/CircleKeep), a local-first Android app built with Kotlin, Jetpack Compose, and Room, and [VaultPrune](https://github.com/barisdincer/VaultPrune), an Obsidian plugin for safely identifying and cleaning unused attachments.
 
-### What I'm currently focused on
-
-- Database Administration & Operations
-- MySQL / Percona
-- PostgreSQL
-- Valkey
-- Linux
-- Monitoring & Observability
-- High Availability
-- Backup & Restore
-
----
-
 ### Connect
 
 [LinkedIn](https://linkedin.com/in/barisdincr)
